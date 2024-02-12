@@ -1,1 +1,1 @@
-print("aaaa mk3 v login")
+print("aaaa mk3 main")
